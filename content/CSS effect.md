@@ -1,5 +1,0 @@
-- Lots of effect https://codecanyon.net/user/romincomputer/portfolio
-- Button Ripple https://codecanyon.net/item/button-ripple-effects-on-click/32820978
-- Loader https://react-loaders.herokuapp.com/
-- Envato js-ocean https://codecanyon.net/user/js-ocean/portfolio 
-- CSS generators https://www.smashingmagazine.com/2021/03/css-generators/

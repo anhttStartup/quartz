@@ -1,3 +1,0 @@
-## What
-**Intro**
-	From perspective of [[Nvidia]] The metaverse—the 3D internet—is delivering enormous opportunities for everyone. From [artists](https://www.nvidia.com/en-us/omniverse/creators/) building content across multiple 3D tools, [developers](https://developer.nvidia.com/nvidia-omniverse-platform) [[Building AIs trained in virtual worlds]], or [enterprises](https://www.nvidia.com/en-us/omniverse/enterprise/) building [digital twin](https://www.nvidia.com/en-us/omniverse/solutions/digital-twins/) simulations of their industrial processes, metaverse applications are here, and everywhere.

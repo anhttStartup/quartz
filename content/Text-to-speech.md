@@ -1,1 +1,0 @@
-https://preview.codecanyon.net/item/easy-texttospeech/full_screen_preview/35399194?_ga=2.112417671.2059301027.1652532595-553314323.1640879771

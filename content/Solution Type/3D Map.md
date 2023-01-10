@@ -1,1 +1,0 @@
-https://3d-mapper.com/pricing-table/
