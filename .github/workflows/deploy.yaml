@@ -33,8 +33,8 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          # personal_token: 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
-          github_token: ${{ secrets.GITHUB_TOKEN }} # Or ${{ github.token }}
+          personal_token: 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
+          # github_token: ${{ secrets.GITHUB_TOKEN }} # Or ${{ github.token }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
           user_name: 'anhttStartup'
