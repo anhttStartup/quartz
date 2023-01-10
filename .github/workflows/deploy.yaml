@@ -33,7 +33,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: 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
+          token: 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
           publish_dir: ./public
           publish_branch: master  # deploying branch
           user_name: 'anhttStartup'
